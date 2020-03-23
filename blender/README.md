@@ -1,6 +1,6 @@
 <center>
   <b>
-    <h3>OPEN SOURCE GRAPHICS AND ANIMATION TOOLSS</h3><br><br>
+    <h3><div style = "text-align:center">OPEN SOURCE GRAPHICS AND ANIMATION TOOLS</div></h3><br><br>
     <h4>Mid-Term Phase - I<br>(Gohan from Dragon Ball Z)<br><br></h4>
   </b>
   <b><p>Submitted to:<p></b><p>Dr. Durgansh Sharma</p><br><br>
